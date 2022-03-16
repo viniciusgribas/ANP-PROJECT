@@ -1,5 +1,14 @@
 # ANP-PROJECT
 
+# Vinicius Guerra e Ribas -  Energy Sector Analyst
+[Energy Engineer (UnB)](https://www.unb.br/)│ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
+
+
+
+## [e-mail](viniciusgribas@gmail.com)│ [Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[GitHub](https://github.com/viniciusgribas) │ [Porfolio - (in progress)](https://viniciusgribas.github.io/portfolio/)
+
+
+
 ## PART 1 - INTRODUCTION
 The programming languages used were PYTHON and VBA EXCEL.
 
