@@ -5,7 +5,7 @@
 
 
 
-## [e-mail](viniciusgribas@gmail.com)│ [Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[GitHub](https://github.com/viniciusgribas) │ [Porfolio - (in progress)](https://viniciusgribas.github.io/portfolio/)
+## [e-mail](viniciusgribas@gmail.com)│ [Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[GitHub](https://github.com/viniciusgribas) 
 
 
 
