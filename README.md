@@ -6,7 +6,7 @@
 [Energy Engineer (UnB)](https://www.unb.br/) │ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
 
 
-## [:email: E-mail](viniciusgribas@gmail.com)│ [:dart: Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[:octocat: GitHub](https://github.com/viniciusgribas) 
+## [:email: E-mail](mailto: viniciusgribas@gmail.com)│ [:dart: Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[:octocat: GitHub](https://github.com/viniciusgribas) 
 
 ---
 
