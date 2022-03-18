@@ -1,13 +1,18 @@
-# ANP-PROJECT
+# ANP-PROJECT - [EN :uk:]
+
+---
 
 # Vinicius Guerra e Ribas -  Energy Sector Analyst
-[Energy Engineer (UnB)](https://www.unb.br/)│ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
+[Energy Engineer (UnB)](https://www.unb.br/) │ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
 
 
-## [E-mail](viniciusgribas@gmail.com)│ [Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[GitHub](https://github.com/viniciusgribas) 
+## [:email: E-mail](mailto:viniciusgribas@gmail.com?Subject=%5BANP-PROJECT%5D%20-%20Contact)│ [:dart: Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[:octocat: GitHub](https://github.com/viniciusgribas) 
 
-# [Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/3f3248700438ac43180c49b441712db51b439d5d/Codigos_Python/Notebook_Master.ipynb)
+---
 
+# [:computer: Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/3f3248700438ac43180c49b441712db51b439d5d/Codigos_Python/Notebook_Master.ipynb)
+
+---
 
 ## PART 1 - INTRODUCTION
 The programming languages used were PYTHON and VBA EXCEL.
@@ -38,7 +43,8 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
 
 ### 1.2 PROJECT FLOW
 
-1) At first, the files are only available in excel `".XLS"` format, under the name "vendas-combustíveis-m3.xls".
+1) At first, the files are only available in excel `".XLS"` format, under the name [`"vendas-combustíveis-m3.xls"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/assets).
+
 2) Within this initial file, there are two pivot tables that are the target. These are:
 
     - Pivot Table 1 ) "Vendas, pelas distribuidoras, dos derivados combustíveis de petróleo por Unidade da Federação e produto - 2000-2020 (m3)"
@@ -47,21 +53,22 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
 
 3) This data, presented by the pivot tables, does not have its data source easily accessible in another spreadsheet. Also, the data is not available through the Excel shortcut: PivotTableTools>Analyze>Change Data Source. This shows the need to extract them using Excel's own `VBA` programming language. The advantage of extracting them this way is not only the reduced time for processes that could be long, but the possibility of applying them via `python`, through the `"wlwings" library`.
 
-- The worksheet, once opened, has by default only one sheet, called "plan1".
-- The macros created in VBA are available in the folder `"\ANP\Codigos_VBA"`.
--  To extract this data, 4 macros were created in VBA. These are presented and described in **PART 2 EXCEL**
+     - The worksheet, once opened, has by default only one sheet, called "plan1".
+     
+     - The macros created in VBA are available in the folder [`"\ANP-PROJECT\Codigos_VBA"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Codigos_VBA).
+     - To extract this data, 4 macros were created in VBA. These are presented and described in **PART 2 EXCEL**
 
 4) Once all the *VBA - MACROS* have been created, they can be called by `python` and applied there via `xlwings library`.
 
 5) After applying the Macros on python, the end products of the extraction are two files in `"CSV-UTF8"`:
 
- - `PlanConsolidada1.CSV`
-
- - `PlanConsolidada2.CSV`
+    - [`PlanConsolidada1.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/assets)
+       
+    - [`PlanConsolidada2.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/assets)
 
 6) These files were managed via the *[Pandas Library](https://pandas.pydata.org/)* from python. Having the descriptive in **PART 3 PYTHON**
 
-7) Finally, the final product of this project is two files in `"CSV-UTF8"` available in the folder `"\ANP\Planilhas Finais"`, according to the following table:
+7) Finally, the final product of this project is two files in `"CSV-UTF8"` available in the folder [`"\ANP-PROJECT\Planilhas Finais"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais), according to the following table:
 
 | Column     | Type      |
 |------------|-----------|
@@ -72,6 +79,6 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
 | volume     | double    |
 | created_at | timestamp |
 
- - `Sales_Of_Diesel_By_UF_And_Type.CSV`
+   - [`Sales_Of_Diesel_By_UF_And_Type.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
 
- - `Sales_Of_Oil_Derivative_Fuels_By_UF_And_Product.CSV`
+   - [`Sales_Of_Oil_Derivative_Fuels_By_UF_And_Product.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
