@@ -20,7 +20,7 @@ Sub ConsolidacaoDeDados_1()
     
     'Define the name as "PlanConsolidada1" and the costom path to export in the end of this macro'
     
-    FPath = "C:\Users\vinic\Documents\GitHub\ANP\assets\PlanConsolidada1"
+    FPath = "C:\Users\vinic\Documents\GitHub\ANP\ANP-PROJECT\assets\PlanConsolidada1"
     
   
 
@@ -168,7 +168,7 @@ Sub ConsolidacaoDeDados_2()
     
     'Define the name as "PlanConsolidada1" and the costom path to export in the end of this macro'
     
-    FPath = "C:\Users\vinic\Documents\GitHub\ANP\assets\PlanConsolidada2"
+    FPath = "C:\Users\vinic\Documents\GitHub\ANP\ANP-PROJECT\assets\PlanConsolidada2"
     
   
 
