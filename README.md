@@ -13,8 +13,6 @@
 ## PART 1 - INTRODUCTION
 The programming languages used were PYTHON and VBA EXCEL.
 
-This project is available in this [link.](https://github.com/raizen-analytics/data-engineering-test/blob/master/TEST.md) It was first proposed for a test.
-
 Seeking to simplify and make clear the flow of activities to obtain the final product, this notebook has been divided into 4 parts.
 
 > PART 1 - INTRODUCTION
@@ -64,7 +62,16 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
 
 6) These files were managed via the *[Pandas Library](https://pandas.pydata.org/)* from python. Having the descriptive in **PART 3 PYTHON**
 
-7) Finally, the final product of this project is two files in `"CSV-UTF8"` available in the folder `"\ANP\Planilhas Finais"`, according to the [project's initial proposal](https://github.com/raizen-analytics/data-engineering-test/blob/master/TEST.md):
+7) Finally, the final product of this project is two files in `"CSV-UTF8"` available in the folder `"\ANP\Planilhas Finais"`, according to the following table:
+
+| Column     | Type      |
+|------------|-----------|
+| year_month | date      |
+| uf         | string    |
+| product    | string    |
+| unit       | string    |
+| volume     | double    |
+| created_at | timestamp |
 
  - `Sales_Of_Diesel_By_UF_And_Type.CSV`
 
