@@ -1,4 +1,4 @@
-# ANP-PROJECT [EN :uk:]
+# ANP-PROJECT - [EN :uk:]
 
 ---
 
