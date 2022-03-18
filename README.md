@@ -6,11 +6,11 @@
 [Energy Engineer (UnB)](https://www.unb.br/)│ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
 
 
-## [:email: E-mail](viniciusgribas@gmail.com)│ [Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[GitHub](https://github.com/viniciusgribas) 
+## [:email: E-mail](viniciusgribas@gmail.com)│ [:dart: Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[:octocat: GitHub](https://github.com/viniciusgribas) 
 
 ---
 
-# [Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/3f3248700438ac43180c49b441712db51b439d5d/Codigos_Python/Notebook_Master.ipynb)
+# [:computer: Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/3f3248700438ac43180c49b441712db51b439d5d/Codigos_Python/Notebook_Master.ipynb)
 
 ---
 
