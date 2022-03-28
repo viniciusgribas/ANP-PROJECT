@@ -39,7 +39,6 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
  - http://timgolden.me.uk/pywin32-docs/contents.html
  - https://github.com/wesm/pydata-book
  - https://github.com/fzumstein/python-for-excel
- - https://github.com/raizen-analytics/data-engineering-test
 
 ### 1.2 PROJECT FLOW
 
