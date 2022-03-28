@@ -57,7 +57,7 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
      - The macros created in VBA are available in the folder [`"\ANP-PROJECT\Codigos_VBA"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Codigos_VBA).
      - To extract this data, 4 macros were created in VBA. These are presented and described in **PART 2 EXCEL**
 
-4) Once all the *VBA - MACROS* have been created, they can be called by `python` and applied there via [`xlwings library`](https://www.xlwings.org/).
+4) Once all the *VBA - MACROS* have been created, they can be called by `python` and applied there via *[`xlwings library`](https://www.xlwings.org/)*.
 
 5) After applying the Macros on python, the end products of the extraction are two files in `"CSV-UTF8"`:
 
@@ -65,7 +65,7 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
        
     - [`PlanConsolidada2.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/assets)
 
-6) These files were managed via the *[Pandas Library](https://pandas.pydata.org/)* from python. Having the descriptive in **PART 3 PYTHON**
+6) These files were managed via the *[`Pandas Library`](https://pandas.pydata.org/)* from python. Having the descriptive in **PART 3 PYTHON**
 
 7) Finally, the final product of this project is two files in `"CSV-UTF8"` available in the folder [`"\ANP-PROJECT\Planilhas Finais"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais), according to the following table:
 
