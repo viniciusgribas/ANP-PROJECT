@@ -50,7 +50,7 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
     
     - Pivot Table 2 ) "Vendas, pelas distribuidoras, de óleo diesel por tipo e Unidade da Federação - 2013-2020 (m3)"
 
-3) This data, presented by the pivot tables, does not have its data source easily accessible in another spreadsheet. Also, the data is not available through the Excel shortcut: PivotTableTools>Analyze>Change Data Source. This shows the need to extract them using Excel's own `VBA` programming language. The advantage of extracting them this way is not only the reduced time for processes that could be long, but the possibility of applying them via `python`, through the `"wlwings" library`.
+3) This data, presented by the pivot tables, does not have its data source easily accessible in another spreadsheet. Also, the data is not available through the Excel shortcut: PivotTableTools>Analyze>Change Data Source. This shows the need to extract them using Excel's own `VBA` programming language. The advantage of extracting them this way is not only the reduced time for processes that could be long, but the possibility of applying them via `python`, through the *[`xlwings library`](https://www.xlwings.org/)*.
 
      - The worksheet, once opened, has by default only one sheet, called "plan1".
      
