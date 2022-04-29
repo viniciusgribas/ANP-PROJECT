@@ -83,5 +83,5 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
    - [`Sales_Of_Oil_Derivative_Fuels_By_UF_And_Product.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
 
 ---
-![image](https://user-images.githubusercontent.com/63691577/161165472-a0c20a8b-d68e-4d6b-a11c-c717bfbb0aa7.png)
+
 
