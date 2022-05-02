@@ -81,3 +81,7 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
    - [`Sales_Of_Diesel_By_UF_And_Type.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
 
    - [`Sales_Of_Oil_Derivative_Fuels_By_UF_And_Product.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
+
+---
+
+
